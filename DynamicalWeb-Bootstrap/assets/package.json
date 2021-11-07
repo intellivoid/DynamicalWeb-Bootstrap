@@ -60,6 +60,7 @@
         "js/bootstrap.js",
         "js/bootstrap.js.map",
         "js/bootstrap.min.js",
-        "js/bootstrap.min.js.map"
+        "js/bootstrap.min.js.map",
+        "package.json"
     ]
 }
